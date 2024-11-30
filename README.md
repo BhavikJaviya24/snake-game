@@ -46,9 +46,6 @@ This repository features a classic Snake game built with Python's **Turtle Graph
    ```
 2. Install Python 3 if not already installed.  
 3. Install the required libraries (if any) using pip:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
 
 ---
 
