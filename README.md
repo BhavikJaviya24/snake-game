@@ -41,7 +41,7 @@ This repository features a classic Snake game built with Python's **Turtle Graph
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/snake-game.git
+   git clone https://github.com/BhavikJaviya24/snake-game.git
    cd snake-game
    ```
 2. Install Python 3 if not already installed.  
